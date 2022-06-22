@@ -1,4 +1,6 @@
 ### Hi there 👋
+### A beginner
+### “Stay hungry，stay foolish！”//求知若渴，虚心若愚
 <!--
 **EauMezcal/EauMezcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
